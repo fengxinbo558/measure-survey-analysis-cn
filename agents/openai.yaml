@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文问卷分析"
+  short_description: "审计已收集问卷的方法质量，并给出有边界的统计发现与决策建议"
+  default_prompt: "使用 $measure-survey-analysis-cn 分析这份问卷，并根据材料选择快速、完整或受限模式。"
